@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather+Sans:wght@400;700&display=swap");
+@font-face {
+  font-family: vazir;
+  src: url(../fonts/Vazir.woff2);
+}
+body{
+    background-color:#d2ebe6 ;
+    width: auto;
+    font-family: vazir;
+    
+}
+
+.navbar{
+    background-color: #e3e9e6;
+    height: 10px; 
+   
+}
+.img-fluid{
+    width:80px;
+    height:70px;
+    margin-left:40px;
+}
+#formpage{
+    width: 1000px;
+    height: 400px;
+    margin-top: 300px;
+    margin-left: 100px;
+    display: grid;
+       
+}
+nav:a:hover{
+    color: blueviolet;
+}
+
+#img-index1{
+    width: 400px;
+    height: auto;
+    margin-top: 130px;
+}
+p{
+    font-size: 17px;
+    text-align: justify;
+
+}
+.buttun-sign{
+    background-color: #298E57;
+    margin-top: 50px;
+    height: 50px;
+    width: 400px;
+    margin-right: 180px;
+    border-radius: 10px;
+    border: none;
+}
